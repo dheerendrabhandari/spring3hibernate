@@ -1,5 +1,1 @@
-Text file for ConfigMap testing
 hello from dheerendra
-hello
-
-hello
